@@ -23,6 +23,7 @@ black = "*"
 isort = "*"
 mypy = "*"
 jupyter = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.9"
